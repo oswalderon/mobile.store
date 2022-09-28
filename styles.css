@@ -1,0 +1,100 @@
+html{
+    height: 100%;
+}
+
+nav{
+    background-color: black;
+}
+
+.nav a:hover{
+    color: rgb(90, 144, 214);
+}
+
+.navbar-brand{
+    font-family: 'Be Vietnam Pro';
+}
+
+.nav p{
+    color: white;
+}
+
+#dropdown-marcas{
+    min-width: 400px;
+    max-width: 465px;
+}
+
+#dropdown-contact{
+    min-width: 400px;
+    max-width: 465px;
+}
+
+.container{
+    padding-top: 75px;
+}
+
+.container .row{
+    margin-bottom: 30px;
+}
+
+#carouselExampleControls h5{
+    font-family: 'Be Vietnam Pro';
+    font-weight: bolder;
+
+}
+
+#carouselExampleControls p{
+    font-family: 'Be Vietnam Pro';
+    font-weight: bolder;
+
+}
+
+.card-title{
+    font-family: 'Be Vietnam Pro';
+    color: white;
+    font-weight: bold;
+}
+
+.card-text{
+    font-family: 'Be Vietnam Pro';
+    color: white;
+}
+
+.card-body a{
+    font-family: 'Be Vietnam Pro';
+    text-decoration: none;
+    color: rgb(90, 144, 214);
+}
+
+#second-row h5{
+    font-family: 'Be Vietnam Pro';
+    color: black;
+}
+
+#second-row p{
+    font-family: 'Be Vietnam Pro';
+    color: black;
+    font-weight: bold;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    font-family: 'Be Vietnam Pro';
+    padding-top: 30px;
+}
+
+.footer a{
+    color: rgb(138, 136, 136);
+    text-decoration: none;
+}
+
+.footer a:hover{
+    color: rgb(90, 144, 214);
+}
+
+.footer p{
+    color: rgb(138, 136, 136);
+    font-size: small;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
